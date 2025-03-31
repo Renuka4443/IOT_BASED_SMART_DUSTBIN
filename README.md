@@ -1,7 +1,3 @@
-Here's a README file for your project:  
-
----
-
 # **Ultrasonic Sensor-Based Automated Servo Mechanism**
 
 ## **Overview**  
@@ -52,5 +48,5 @@ This project utilizes an **Arduino Uno**, an **HC-SR04 Ultrasonic Sensor**, and 
 4. Place an object in front of the **HC-SR04 sensor** and observe the **servo movement**.  
 
 **DEMONSTRATION**  
-https://github.com/user-attachments/assets/6480b655-031f-4b64-b8b0-6b37525eea0d
+
 
