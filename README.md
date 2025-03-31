@@ -1,4 +1,4 @@
-# **Ultrasonic Sensor-Based Automated Servo Mechanism**
+# **IOT BASED SMART DUSTBIN**
 
 ## **Overview**  
 This project utilizes an **Arduino Uno**, an **HC-SR04 Ultrasonic Sensor**, and a **servo motor** to create an automated system that reacts to detected objects. When an object is within a specified distance (50 cm), the servo motor is activated.
